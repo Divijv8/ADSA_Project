@@ -1,0 +1,5 @@
+Hello world
+This is a test file
+For the Smart Code Search engine
+It has multiple lines
+Let's see if it gets indexed correctly
