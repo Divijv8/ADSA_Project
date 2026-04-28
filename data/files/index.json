@@ -5,7 +5,7 @@
       "original_name": "test.txt",
       "file_path": "C:\\Users\\divij\\projects\\ADSA_Project\\data\\files\\c14bc560-8917-43c7-b61a-5ea287e9dc51.txt",
       "created_at": "2026-04-11T19:19:47.546Z",
-      "updated_at": "2026-04-11T19:19:47.546Z",
+      "updated_at": "2026-04-28T14:22:58.203Z",
       "line_count": 6
     },
     "9c602e38-792c-4165-9d0a-866775792741": {
@@ -22,6 +22,14 @@
       "file_path": "C:\\Users\\divij\\projects\\ADSA_Project\\data\\files\\93e1cf52-f72f-4001-967f-f986f6fe885f.txt",
       "created_at": "2026-04-11T19:31:31.419Z",
       "updated_at": "2026-04-11T19:31:31.419Z",
+      "line_count": 10
+    },
+    "28a87f4b-5489-41d8-b0c2-1229b802076f": {
+      "file_id": "28a87f4b-5489-41d8-b0c2-1229b802076f",
+      "original_name": "WildLide.txt",
+      "file_path": "C:\\Users\\divij\\projects\\ADSA_Project\\data\\files\\28a87f4b-5489-41d8-b0c2-1229b802076f.txt",
+      "created_at": "2026-04-28T14:21:34.668Z",
+      "updated_at": "2026-04-28T14:21:34.668Z",
       "line_count": 10
     }
   }
