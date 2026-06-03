@@ -1,4 +1,3 @@
-#3rd Year Project 
 # Smart Code Search & Analytics Engine
 
 Full-stack system for code/text indexing and search powered by advanced data structures:
